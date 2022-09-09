@@ -1,2 +1,2 @@
 # QASO
-a Quality Assessment Suite for Ontologies
+A Quality Assessment Suite for Ontologies
