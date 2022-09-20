@@ -4,7 +4,7 @@ A Quality Assessment Suite for Ontologies. It comprises 15 metrics in which eigh
 How to use
 ----------
 ````
-git clone https://github.com/shmkhaled/QASO.git
+git clone https://github.com/SmartDataAnalytics/QASO.git
 cd QASO
 
 mvn clean package
