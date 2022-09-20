@@ -1,0 +1,397 @@
+united states customary tablespoon,united states customary teaspoon,0.9393939393939394
+day,day,1.0
+rate unit,rate unit,1.0
+league,league,1.0
+mass density unit,mass density unit,1.0
+newton,newton,1.0
+slug,slug,1.0
+kilogram per square meter,kilogram per square meter,1.0
+nanomole,nanomole,1.0
+foot candle,foot candle,1.0
+femtomole,femtomole,1.0
+square micrometer,square micrometer,1.0
+unit per liter,unit per liter,1.0
+count per nanomolar,count per nanomolar,1.0
+kilogram meter per second,kilogram meter per second,1.0
+second,second,1.0
+milliliter,milliliter,1.0
+millisievert,millisievert,1.0
+gray per minute,gray per minute,1.0
+fluid ounce,fluid ounce,1.0
+milligram per square meter,milligram per square meter,1.0
+luminance unit,luminance unit,1.0
+square meter,square meter,1.0
+kiloelectronvolt per micron,kiloelectronvolt per micron,1.0
+spatial resolution unit,spatial resolution unit,1.0
+nanogray,nanogray,1.0
+unit,unit,1.0
+femtomolar,femtomolar,1.0
+pixels per inch,pixels per inch,1.0
+picoliter,picoliter,1.0
+turns per second,turns per second,1.0
+count per molar,count per molar,1.0
+tablespoon,tablespoon,1.0
+milliunits per milliliter,milliunits per milliliter,1.0
+cubic centimeter,cubic centimeter,1.0
+teaspoon,teaspoon,1.0
+gigabyte,gigabyte,1.0
+milligram per milliliter,milligram per milliliter,1.0
+radian,radian,1.0
+pascal second,pascal second,1.0
+electric potential difference unit,electric potential difference unit,1.0
+mass percentage,mass percentage,1.0
+acre,acre,1.0
+chroma sampling unit,chroma sampling unit,1.0
+nanosecond,nanosecond,1.0
+time unit,time unit,1.0
+nanosievert,nanosievert,1.0
+milliliter per liter,milliliter per liter,1.0
+angular acceleration unit,angular acceleration unit,1.0
+australian metric tablespoon,australian metric tablespoon,1.0
+unit per volume unit,unit per volume unit,1.0
+microgram per liter,microgram per liter,1.0
+radian per second per second,radian per second per second,1.0
+cell concentration unit,cell concentration unit,1.0
+parts per trillion,parts per trillion,1.0
+frequency unit,frequency unit,1.0
+parts per hundred,parts per hundred,1.0
+milliampere,milliampere,1.0
+newton per meter,newton per meter,1.0
+relative luminescence unit,relative luminescence unit,1.0
+parts per notation unit,parts per notation unit,1.0
+weber,weber,1.0
+ton,ton,1.0
+angstrom,angstrom,1.0
+kilogram per hectare,kilogram per hectare,1.0
+density unit,density unit,1.0
+kilometer per hour,kilometer per hour,1.0
+magnetic flux density unit,magnetic flux density unit,1.0
+millisiemens,millisiemens,1.0
+milligray per day,milligray per day,1.0
+volume unit,volume unit,1.0
+kilogram per cubic meter,kilogram per cubic meter,1.0
+watt per square meter,watt per square meter,1.0
+unit of molarity,unit of normality,0.9285714285714286
+light unit,light unit,1.0
+rad,rad,1.0
+kilogram per liter,kilogram per liter,1.0
+femto,femto,1.0
+heat conduction unit,heat conduction unit,1.0
+picomolal,picomolal,1.0
+base unit,base unit,1.0
+milligray,milligray,1.0
+volt-hour,volt hour,1.0
+parts per thousand,parts per thousand,1.0
+temperature unit,temperature unit,1.0
+megabyte,megabyte,1.0
+radian per second,radian per second,1.0
+milligray per minute,milligray per minute,1.0
+unit per milliliter,unit per milliliter,1.0
+cubic meter per mole,cubic meter per mole,1.0
+nanomolar,nanomolar,1.0
+plaque forming unit per milliliter,plaque forming unit per milliliter,1.0
+grain,grain,1.0
+mega,mega,1.0
+microvolt,microvolt,1.0
+Roentgen equivalent man,roentgen equivalent man,1.0
+prefix,prefix,1.0
+radiant intensity unit,radiant intensity unit,1.0
+united states customary cup,united states customary cup,1.0
+united states customary tablespoon,united states customary tablespoon,1.0
+united states customary teaspoon,united states customary teaspoon,1.0
+fathom,fathom,1.0
+micromole per kilogram,micromole per kilogram,1.0
+mebibyte,mebibyte,1.0
+rood,rood,1.0
+curie per liter,curie per liter,1.0
+pound,pound,1.0
+exa,exa,1.0
+kilovolt-hour,kilovolt hour,1.0
+century,century,1.0
+effective dose unit,effective dose unit,1.0
+energy unit,energy unit,1.0
+giga,giga,1.0
+volt,volt,1.0
+mass per unit volume,mass per unit volume,1.0
+katal per liter,katal per liter,1.0
+gram per deciliter,gram per deciliter,1.0
+speed/velocity unit,speed velocity unit,1.0
+quarter,quarter,1.0
+furlong,furlong,1.0
+millimeters per day,millimeters per day,1.0
+plaque forming unit,plaque forming unit,1.0
+parts per million,parts per million,1.0
+picosecond,picosecond,1.0
+kilo base pair,kilo base pair,1.0
+microsecond,microsecond,1.0
+gram per liter,gram per liter,1.0
+gram,gram,1.0
+colony forming unit per volume,colony forming unit per volume,1.0
+femtoliter,femtoliter,1.0
+chain,chain,1.0
+united states customary teaspoon,united states customary tablespoon,0.9393939393939394
+dimensionless unit,dimensionless unit,1.0
+pounds per square inch,pounds per square inch,1.0
+relative fluorescence unit,relative fluorescence unit,1.0
+microliter per kilogram,microliter per kilogram,1.0
+dots per inch,dots per inch,1.0
+radioactivity concentration,radioactivity concentration,1.0
+kilovolt,kilovolt,1.0
+katal per cubic meter,katal per cubic meter,1.0
+absorbed dose unit,absorbed dose unit,1.0
+relative light unit,relative light unit,1.0
+kilo,kilo,1.0
+count per nanomolar second,count per nanomolar second,1.0
+dyne per cm,dyne per cm,1.0
+candela per square meter,candela per square meter,1.0
+hundredweight,hundredweight,1.0
+meter per second,meter per second,1.0
+perch,perch,1.0
+formazin nephelometric unit,formazin nephelometric unit,1.0
+attomole,attomole,1.0
+nmole/disk,nmole disk,1.0
+electric current unit,electric current unit,1.0
+stone,stone,1.0
+microeinstein per square meter per second,microeinstein per square meter per second,1.0
+gray,gray,1.0
+nanometer,nanometer,1.0
+gill,gill,1.0
+year,year,1.0
+plane angle unit,plane angle unit,1.0
+volt per meter,volt per meter,1.0
+volumetric flow rate unit,volumetric flow rate unit,1.0
+week,week,1.0
+micromole per litre,micromole per litre,1.0
+concentration unit,concentration unit,1.0
+volume per unit volume,volume per unit volume,1.0
+length unit,length unit,1.0
+micromolar,micromolar,1.0
+hectare,hectare,1.0
+peta,peta,1.0
+colony forming unit,colony forming unit,1.0
+megaelectronvolt per nucleon,megaelectronvolt per nucleon,1.0
+parts per quadrillion,parts per quadrillion,1.0
+percent,percent,1.0
+counts per minute,counts per minute,1.0
+luminous intensity unit,luminous intensity unit,1.0
+terabyte,terabyte,1.0
+kilodalton,kilodalton,1.0
+cells per well,cells per well,1.0
+electric field strength unit,electric field strength unit,1.0
+milliliter per kilogram,milliliter per kilogram,1.0
+base pair,base pair,1.0
+giga base pair,giga base pair,1.0
+rotational frequency unit,rotational frequency unit,1.0
+centigray,centigray,1.0
+unit of normality,unit of molarity,0.9285714285714286
+becquerel,becquerel,1.0
+large calorie,large calorie,1.0
+microcurie,microcurie,1.0
+millimolal,millimolal,1.0
+cells per microliter,cells per microliter,1.0
+magnetic flux unit,magnetic flux unit,1.0
+gigaelectronvolt,gigaelectronvolt,1.0
+dosage unit,dosage unit,1.0
+kibibyte,kibibyte,1.0
+micron pixel,micron pixel,1.0
+micromolal,micromolal,1.0
+megaHertz,mega hertz,0.9
+turbidity unit,turbidity unit,1.0
+kilogram per cubic meter,cubic meter per kilogram,1.0
+nanovolt,nanovolt,1.0
+cubic meter per kilogram,kilogram per cubic meter,1.0
+millicurie,millicurie,1.0
+millimetres of mercury,millimetres of mercury,1.0
+millimeter,millimeter,1.0
+square angstrom,square angstrom,1.0
+pint,pint,1.0
+dynamic range unit,dynamic range unit,1.0
+microgram,microgram,1.0
+exposure unit,exposure unit,1.0
+poise,poise,1.0
+mole fraction,mole fraction,1.0
+mass unit,mass unit,1.0
+picomolar,picomolar,1.0
+picoampere,picoampere,1.0
+gallon,gallon,1.0
+catalytic activity unit,catalytic activity unit,1.0
+united states fda cup,united states fda cup,1.0
+meter per second per second,meter per second per second,1.0
+irradiance unit,irradiance unit,1.0
+milligram per kilogram,milligram per kilogram,1.0
+enzyme unit,enzyme unit,1.0
+half life,half life,1.0
+square centimeter,square centimeter,1.0
+inch,inch,1.0
+tera,tera,1.0
+deca,deca,1.0
+ton per hectare,ton per hectare,1.0
+acceleration unit,acceleration unit,1.0
+deciliter,deciliter,1.0
+cubic meter,cubic meter,1.0
+degree,degree,1.0
+deci,deci,1.0
+viscosity unit,viscosity unit,1.0
+molal,molal,1.0
+curie,curie,1.0
+watt per steradian,watt per steradian,1.0
+confluence percentage,confluence percentage,1.0
+kilogram per meter,kilogram per meter,1.0
+minute,minute,1.0
+nanogram per microliter,nanogram per microliter,1.0
+unit of molality,unit of molality,1.0
+power unit,power unit,1.0
+katal,katal,1.0
+volume percentage,volume percentage,1.0
+count unit,count unit,1.0
+disintegrations per second,disintegrations per second,1.0
+disintegrations per minute,disintegrations per minute,1.0
+milligram per liter,milligram per liter,1.0
+milli,milli,1.0
+square millimeter,square millimeter,1.0
+milligram,milligram,1.0
+microsievert,microsievert,1.0
+microgray,microgray,1.0
+linear density unit,linear density unit,1.0
+dose equivalent unit,dose equivalent unit,1.0
+degree Fahrenheit,degree fahrenheit,1.0
+kilogram per liter,liter per kilogram,1.0
+absorbance unit,absorbance unit,1.0
+ratio,ratio,1.0
+pi,pi,1.0
+yotta,yotta,1.0
+zepto,zepto,1.0
+steradian,steradian,1.0
+purity percentage,purity percentage,1.0
+lux,lux,1.0
+gram per mole,gram per mole,1.0
+millivolt,millivolt,1.0
+joule,joule,1.0
+candela,candela,1.0
+luminous flux unit,luminous flux unit,1.0
+surface tension unit,surface tension unit,1.0
+gram per square meter,gram per square meter,1.0
+bit,bit,1.0
+colony forming unit per milliliter,colony forming unit per milliliter,1.0
+micromole,micromole,1.0
+byte,byte,1.0
+centi,centi,1.0
+unit of normality,unit of normality,1.0
+watt-hour,watt hour,1.0
+molar mass unit,molar mass unit,1.0
+kilogram per mole,kilogram per mole,1.0
+centiMorgan,centi morgan,0.9166666666666666
+fold dilution,fold dilution,1.0
+centimeter,centimeter,1.0
+microliters per minute,microliters per minute,1.0
+foot,foot,1.0
+metric cup,metric cup,1.0
+quart,quart,1.0
+volt-second per square centimeter,volt second per square centimeter,1.0
+lumen,lumen,1.0
+mega base pair,mega base pair,1.0
+hecto,hecto,1.0
+liter,liter,1.0
+megavolt,megavolt,1.0
+kilogram,kilogram,1.0
+cubic centimeter per mole,cubic centimeter per mole,1.0
+zetta,zetta,1.0
+mile,mile,1.0
+angle unit,angle unit,1.0
+yard,yard,1.0
+watt,watt,1.0
+area unit,area unit,1.0
+drachm,drachm,1.0
+micrometer,micrometer,1.0
+gram per milliliter,milligram per liter,1.0
+milligram per kilogram per day,milligram per kilogram per day,1.0
+nanoliter,nanoliter,1.0
+milligram per liter,gram per milliliter,1.0
+electrical conduction unit,electrical conduction unit,1.0
+microgram per milliliter,microgram per milliliter,1.0
+ug/disk,ug disk,1.0
+microliter,microliter,1.0
+amount per container,amount per container,1.0
+einstein per square meter per second,einstein per square meter per second,1.0
+pressure unit,pressure unit,1.0
+conduction unit,conduction unit,1.0
+angular velocity unit,angular velocity unit,1.0
+nano,nano,1.0
+cells per milliliter,cells per milliliter,1.0
+molecule count,molecule count,1.0
+dose unit,dose unit,1.0
+coulomb,coulomb,1.0
+electronvolt,electronvolt,1.0
+electric charge,electric charge,1.0
+millisecond,millisecond,1.0
+mass volume percentage,mass volume percentage,1.0
+millimolar,millimolar,1.0
+cubic decimeter,cubic decimeter,1.0
+pixels per millimeter,pixels per millimeter,1.0
+nautical mile,nautical mile,1.0
+kilowatt-hour,kilowatt hour,1.0
+yocto,yocto,1.0
+thou,thou,1.0
+tesla,tesla,1.0
+area density unit,area density unit,1.0
+watt per meter kelvin,watt per meter kelvin,1.0
+molar volume unit,molar volume unit,1.0
+gram per milliliter,gram per milliliter,1.0
+cubic meter per kilogram,cubic meter per kilogram,1.0
+milliliter per cubic meter,milliliter per cubic meter,1.0
+centigray per minute,centigray per minute,1.0
+illuminance unit,illuminance unit,1.0
+radiation unit,radiation unit,1.0
+information unit,information unit,1.0
+radiance unit,radiance unit,1.0
+normal,normal,1.0
+momentum unit,momentum unit,1.0
+liter per kilogram,liter per kilogram,1.0
+molar,molar,1.0
+maritime length unit,maritime length unit,1.0
+sievert,sievert,1.0
+micro,micro,1.0
+parts per billion,parts per billion,1.0
+pascal,pascal,1.0
+kilobyte,kilobyte,1.0
+picovolt,picovolt,1.0
+nanomolal,nanomolal,1.0
+nanogram per milliliter,nanogram per milliliter,1.0
+ampere,ampere,1.0
+millimole,millimole,1.0
+hour,hour,1.0
+liter per kilogram,kilogram per liter,1.0
+nanogram,nanogram,1.0
+force unit,force unit,1.0
+decibel,decibel,1.0
+substance unit,substance unit,1.0
+picogram,picogram,1.0
+dalton,dalton,1.0
+unit of molarity,unit of molarity,1.0
+ounce,ounce,1.0
+gram per cubic centimeter,gram per cubic centimeter,1.0
+hertz,hertz,1.0
+watt per steradian per square meter,watt per steradian per square meter,1.0
+meter,meter,1.0
+siemens,siemens,1.0
+femtogram,femtogram,1.0
+image resolution unit,image resolution unit,1.0
+kelvin,kelvin,1.0
+micrograms per wheaton bottle,micrograms per wheaton bottle,1.0
+specific volume unit,specific volume unit,1.0
+degree Celsius,degree celsius,1.0
+cable,cable,1.0
+mole,mole,1.0
+count per molar second,count per molar second,1.0
+picomole,picomole,1.0
+microcurie per milliliter,microcurie per milliliter,1.0
+microampere,microampere,1.0
+plaque forming unit per volume,plaque forming unit per volume,1.0
+fraction,fraction,1.0
+gigaelectronvolt per nucleon,gigaelectronvolt per nucleon,1.0
+pico,pico,1.0
+picometer,picometer,1.0
+solid angle unit,solid angle unit,1.0
+roentgen,roentgen,1.0
+atto,atto,1.0
+month,month,1.0

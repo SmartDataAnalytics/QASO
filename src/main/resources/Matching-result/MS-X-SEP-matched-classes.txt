@@ -1,0 +1,75 @@
+magnetic flux density unit,magnetic flux density unit,1.0
+volume unit,volume unit,1.0
+suspension,suspension,1.0
+percent,percent,1.0
+protocol,protocol,1.0
+mass density unit,mass density unit,1.0
+energy unit,energy unit,1.0
+nanometer,nanometer,1.0
+kilodalton,kilodalton,1.0
+unit,unit,1.0
+entity,entity,1.0
+electric field strength unit,electric field strength unit,1.0
+dimensionless unit,dimensionless unit,1.0
+researcher,researcher,1.0
+base unit,base unit,1.0
+plane angle unit,plane angle unit,1.0
+Processed,process,1.0
+volt,volt,1.0
+temperature unit,temperature unit,1.0
+volt per meter,volt per meter,1.0
+sample volume,sample volume,1.0
+odor,rood,1.0
+volumetric flow rate unit,volumetric flow rate unit,1.0
+frequency unit,frequency unit,1.0
+second,second,1.0
+CAMERA,camera,1.0
+milliliter,milliliter,1.0
+length unit,length unit,1.0
+Prefix,prefix,1.0
+software,software,1.0
+electric potential difference unit,electric potential difference unit,1.0
+parts per notation unit,parts per notation unit,1.0
+parts per million,parts per million,1.0
+mode,mode,1.0
+role,role,1.0
+density unit,density unit,1.0
+rate,tera,1.0
+time unit,time unit,1.0
+nanosecond,nanosecond,1.0
+position,position,1.0
+gram per liter,gram per liter,1.0
+gram,gram,1.0
+process,process,1.0
+hertz,hertz,1.0
+degree,degree,1.0
+pascal,pascal,1.0
+square angstrom,square angstrom,1.0
+meter,meter,1.0
+electronvolt,electronvolt,1.0
+kelvin,kelvin,1.0
+absorbance unit,absorbance unit,1.0
+millisecond,millisecond,1.0
+area unit,area unit,1.0
+electric charge,electric charge,1.0
+ratio,ratio,1.0
+degree Celsius,degree celsius,1.0
+mass unit,mass unit,1.0
+minute,minute,1.0
+tesla,tesla,1.0
+micrometer,micrometer,1.0
+angle unit,angle unit,1.0
+count unit,count unit,1.0
+sample,sample,1.0
+solution,solution,1.0
+fraction,fraction,1.0
+vendor,vendor,1.0
+microliters per minute,microliters per minute,1.0
+dalton,dalton,1.0
+electron volt,electronvolt,0.9230769230769231
+normal,normal,1.0
+volt-second per square centimeter,volt second per square centimeter,1.0
+quality,quality,1.0
+pressure unit,pressure unit,1.0
+joule,joule,1.0
+role type,role,1.0

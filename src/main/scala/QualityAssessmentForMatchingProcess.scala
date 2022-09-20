@@ -33,6 +33,7 @@ import org.apache.spark.sql.SparkSession
   def DegreeOfOverlapping(O1: RDD[graph.Triple], O2: RDD[graph.Triple]): Double = {
     val Overlapping: Double = numberOfAllMatchedResources / (ontoStat.getAllSchemaResources(O1).count().toDouble + ontoStat.getAllSchemaResources(O2).count().toDouble)
     ontoStat.roundNumber(Overlapping)
+//    Overlapping
   }
   /**
     * refers to the fraction of resources which exist in at least one correspondence in the matching results in comparison to the total number of resources in the input ontologies.

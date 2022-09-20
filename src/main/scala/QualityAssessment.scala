@@ -14,14 +14,16 @@ object QualityAssessment {
 
     val startTimeMillis = System.currentTimeMillis()
 
-    println("Please add the two ontologies to the ontology directory")
-    println("Please enter the name of the first ontology file (ex: UO.ttl):")
-    val inputOntology1 = scala.io.StdIn.readLine()
-    val O1 = "src/main/resources/Ontology/"+inputOntology1
+//    println("Please add the two ontologies to the ontology directory")
+//    println("Please enter the name of the first ontology file (ex: UO.ttl):")
+//    val inputOntology1 = scala.io.StdIn.readLine()
+//    val O1 = "src/main/resources/Ontology/"+inputOntology1
+    val O1 = "src/main/resources/Ontology/PO.ttl"
 
-    println("Please enter the name of the second ontology file (ex: SEP.ttl):")
-    val inputOntology2 = scala.io.StdIn.readLine()
-    val O2 = "src/main/resources/Ontology/"+inputOntology2
+//    println("Please enter the name of the second ontology file (ex: SEP.ttl):")
+//    val inputOntology2 = scala.io.StdIn.readLine()
+//    val O2 = "src/main/resources/Ontology/"+inputOntology2
+      val O2 = "src/main/resources/Ontology/SEP.ttl"
 
     val lang1: Lang = Lang.TURTLE
 
