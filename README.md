@@ -1,5 +1,5 @@
 # QASO
-A Quality Assessment Suite for Ontologies. It comprises 15 metrics in which eight metrics for assessing the quality of the matching process and seven for assessing ontologies quality. All implementations are based on Scala 2.11.11 and Apache Spark 2.3.1. 
+A Quality Assessment Suite for Ontologies. It comprises 14 metrics in which seven metrics for assessing the quality of the matching process and seven for assessing ontologies quality. All implementations are based on Scala 2.11.11 and Apache Spark 2.3.1. 
 
 How to use
 ----------
